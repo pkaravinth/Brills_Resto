@@ -14,9 +14,6 @@ AOS.init();
 
 function App()
 {
- 
-
-
   return(
     <div>
       <Navbar/>
@@ -29,7 +26,6 @@ function App()
       <Contact/>
       <br></br>
       <Footer/>
-
     </div>
   )
 }
