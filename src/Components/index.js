@@ -118,7 +118,7 @@ function Home(args) {
       <div class="col-lg-4  col-md-4 col-sm-12 col-xs-12">
        <center> <img src="https://media-cdn.grubhub.com/grubhub-assets/image/upload/v1693490333/SEO-SEM/Unauth_HP_illo2.svg"></img></center><br/><br/>
        <center><h1>Delivery or pickup</h1></center><br></br>
-       <center><h5>Sit back and relax, have us deliver to you or skip the line with pickup.</h5></center>
+x       <center><h5>Sit back and relax, have us deliver to you or skip the line with pickup.</h5></center>
         </div>
       <div class="col-lg-4  col-md-4 col-sm-12 col-xs-12">
         <center><img src="https://media-cdn.grubhub.com/grubhub-assets/image/upload/v1693490333/SEO-SEM/Unauth_HP_illo3.svg"></img></center><br/><br></br>
