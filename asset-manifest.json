@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Brills_Resto/static/css/main.77090a21.css",
+    "main.js": "/Brills_Resto/static/js/main.0d335808.js",
+    "static/js/453.c44a0ee9.chunk.js": "/Brills_Resto/static/js/453.c44a0ee9.chunk.js",
+    "static/media/Yellow Restaurant Menu.jpg": "/Brills_Resto/static/media/Yellow Restaurant Menu.8fbb06e5829dcf2aee82.jpg",
+    "static/media/2.jpg": "/Brills_Resto/static/media/2.bf7223fcb4cde4d33338.jpg",
+    "index.html": "/Brills_Resto/index.html",
+    "main.77090a21.css.map": "/Brills_Resto/static/css/main.77090a21.css.map",
+    "main.0d335808.js.map": "/Brills_Resto/static/js/main.0d335808.js.map",
+    "453.c44a0ee9.chunk.js.map": "/Brills_Resto/static/js/453.c44a0ee9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77090a21.css",
+    "static/js/main.0d335808.js"
+  ]
+}
